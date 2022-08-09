@@ -94,6 +94,13 @@ After that we have placed our left over Ir sensors that will senses that in fron
 
 ## Images of the project
 
-<img src="https://user-images.githubusercontent.com/87846440/183569304-167becd7-d10c-4d0f-b821-3748af73cc0e.jpeg" height="400"> <img src="https://user-images.githubusercontent.com/87846440/183569450-a5544607-24ec-47f8-8917-7bcb110d8158.jpeg" width="300"> <img src="https://user-images.githubusercontent.com/87846440/183569679-4df20290-b275-4ce4-b1dd-bfd6676af203.jpeg" width="200">
+<img src="https://user-images.githubusercontent.com/87846440/183569304-167becd7-d10c-4d0f-b821-3748af73cc0e.jpeg" height="400" width="400"> 
+
+## Showing Empty Slots
+
+<img src="https://user-images.githubusercontent.com/87846440/183569450-a5544607-24ec-47f8-8917-7bcb110d8158.jpeg" width="400"> 
+
+## Showing Filled Slots
+<img src="https://user-images.githubusercontent.com/87846440/183569679-4df20290-b275-4ce4-b1dd-bfd6676af203.jpeg" width="400">
 
 
